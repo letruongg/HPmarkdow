@@ -1,6 +1,6 @@
-# *Trang chủ*
-## 1. giới thiệu sản phẩm
-## 2. còn nữa ...
+# Trang chủ
+##  giới thiệu sản phẩm
+### còn nữa ...
 ``` c++
 int main ()
 {
