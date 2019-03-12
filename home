@@ -1,3 +1,9 @@
 # *Trang chủ*
-## 1.
-## 2.
+## 1. giới thiệu sản phẩm
+## 2. còn nữa ...
+``` c++
+int main ()
+{
+  return 0;
+}
+```
